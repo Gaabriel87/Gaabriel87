@@ -1,16 +1,24 @@
-### Hi there 👋
+# Gabriel's Profile README
 
-**<!--
-**Gaabriel87/Gaabriel87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Gabriel! 👋
 
-Here are some ideas to get you started:
+I'm a passionate software developer from [Your Location]. Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->**
+- 🔭 I’m currently working on [Your Current Project]
+- 🌱 I’m currently learning [Technology or Skill You're Learning]
+- 💬 Ask me about [Anything you're comfortable helping with]
+- 📫 How to reach me: [Your Contact Information]
+
+### 🚀 Languages and Tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaabriel87&layout=compact)](https://github.com/Gaabriel87/github-readme-stats)
+
+### 📊 GitHub Stats:
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaabriel87&show_icons=true&theme=radical)
+
+### 📫 Connect with me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+
+<br />
