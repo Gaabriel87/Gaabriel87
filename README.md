@@ -4,10 +4,9 @@
 
 I'm a passionate software developer from [Your Location]. Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technology or Skill You're Learning]
-- 💬 Ask me about [Anything you're comfortable helping with]
-- 📫 How to reach me: [Your Contact Information]
+- 🔭 I’m currently working on [Web development]
+- 🌱 I’m currently learning [PHP]
+- 📫 How to reach me: [email: gabrielmaf08@gmail.com]
 
 ### 🚀 Languages and Tools:
 
@@ -16,9 +15,5 @@ I'm a passionate software developer from [Your Location]. Welcome to my GitHub p
 ### 📊 GitHub Stats:
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaabriel87&show_icons=true&theme=radical)
-
-### 📫 Connect with me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
 <br />
