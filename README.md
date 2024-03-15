@@ -2,11 +2,11 @@
 
 ## Hi there, I'm Gabriel! 👋
 
-I'm a passionate software developer from [Your Location]. Welcome to my GitHub profile! 
+I'm a passionate software developer from Brazil. Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on [Web development]
-- 🌱 I’m currently learning [PHP]
-- 📫 How to reach me: [email: gabrielmaf08@gmail.com]
+- 🔭 I’m currently working on Web development
+- 🌱 I’m currently learning PHP
+- 📫 How to reach me email: gabrielmaf08@gmail.com
 
 ### 🚀 Languages and Tools:
 
