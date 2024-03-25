@@ -15,6 +15,7 @@ I'm a passionate software developer from Brazil. Welcome to my GitHub profile!
 
 ### 📊 GitHub Stats:
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaabriel87&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaabriel87&show_icons=true&theme=radical&include_all_repositories=true)
+
 
 <br />
