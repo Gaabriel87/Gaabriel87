@@ -4,8 +4,8 @@
 
 I'm a passionate software developer from Brazil. Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning PHP
+- 🔭 I’m currently working on Web  Full Stack development
+- 🌱 I’m currently learning React
 - 📫 How to reach me email: gabrielmaf08@gmail.com
 
 ### 🚀 Languages and Tools:
