@@ -10,7 +10,7 @@ I'm a passionate software developer from Brazil. Welcome to my GitHub profile!
 
 ### 🚀 Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaabriel87&hide_progress=true&langs_count=18)](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaabriel87&hide_progress=true&langs_count=17)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaabriel87&hide_progress=true&langs_count=18)](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaabriel87&hide_progress=true&langs_count=19)
 
 
 ### 📊 GitHub Stats:
